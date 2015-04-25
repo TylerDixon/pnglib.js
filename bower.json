@@ -1,0 +1,23 @@
+{
+  "name": "pnglib.js",
+  "main": "pnglib.js",
+  "version": "0.0.0",
+  "homepage": "https://github.com/robertleeplummerjr/pnglib.js",
+  "authors": [
+    "Robert Lee Plummer Jr. <robertleeplummerjr@gmail.com>"
+  ],
+  "keywords": [
+    "png",
+    "javascript",
+    "image",
+    "manipulate"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
